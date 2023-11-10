@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/memecat/static/css/main.72a36d7f.css",
+    "main.js": "/memecat/static/js/main.dce7bb7b.js",
+    "static/js/787.c05fa998.chunk.js": "/memecat/static/js/787.c05fa998.chunk.js",
+    "static/media/token-image.png": "/memecat/static/media/token-image.165077e0ecb80af27ace.png",
+    "static/media/htb-bg.png": "/memecat/static/media/htb-bg.ed06385117f7c775b4f2.png",
+    "static/media/roadmap2.png": "/memecat/static/media/roadmap2.da68453ac0faa6103881.png",
+    "static/media/roadmap1.png": "/memecat/static/media/roadmap1.32783cfcc5a1ddfd046c.png",
+    "static/media/about-image.png": "/memecat/static/media/about-image.6c047f0a9771c1c3931c.png",
+    "static/media/hero-title.png": "/memecat/static/media/hero-title.9fd7debbaaa5e456bcc2.png",
+    "static/media/hero-image.png": "/memecat/static/media/hero-image.805be999bde4f4a50b14.png",
+    "static/media/section1.png": "/memecat/static/media/section1.48bc718c63efff61ec41.png",
+    "static/media/htb2.png": "/memecat/static/media/htb2.3dec8fa40cc9ea493806.png",
+    "static/media/htb1.png": "/memecat/static/media/htb1.a79fe40d99ea9a46e416.png",
+    "static/media/htb4.png": "/memecat/static/media/htb4.52f3649758d6167d1cff.png",
+    "static/media/htb3.png": "/memecat/static/media/htb3.7a7d18b48e15f9c3fee7.png",
+    "static/media/fire.png": "/memecat/static/media/fire.5cc958482eeb917c917f.png",
+    "static/media/logo.svg": "/memecat/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/memecat/index.html",
+    "main.72a36d7f.css.map": "/memecat/static/css/main.72a36d7f.css.map",
+    "main.dce7bb7b.js.map": "/memecat/static/js/main.dce7bb7b.js.map",
+    "787.c05fa998.chunk.js.map": "/memecat/static/js/787.c05fa998.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72a36d7f.css",
+    "static/js/main.dce7bb7b.js"
+  ]
+}
